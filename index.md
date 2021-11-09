@@ -1,6 +1,8 @@
+---
+layout: default
+---
+
 ## Zhengqi Yang @ Rensselaer Polytechnic Institute
-
-
 
 ### News
 
