@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Zhengqi Yang @ Rensselaer Polytechnic Institute
+# Welcome!
 
-### News
+## News
 
-### Research Interests
+## Research Interests
 
-### Contact
+## Contact
 
 ```markdown
 Syntax highlighted code block
